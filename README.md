@@ -1,4 +1,4 @@
-# WebScraping-API-Shopee
+# WebScraping da API da Shopee
 ![GitHub](https://img.shields.io/github/license/rvidals/WebScraping-API-Shopee)
 
 # Sobre o projeto
@@ -28,6 +28,8 @@ Trazendo para a minha realidade e interesse, adaptei o algoritmo para pesquisar 
   - Avaliação de 5 estrelas => rating_5
 
 Onde o resultado é salvo em um arquivo Excel. É possível fazer diversos filtros e análises usando a biblioteca pandas e só salvar o resultado da análise. Por exemplo, *Top 5 de menores preços, Top 10 de mais avaliados e assim por diante*. Porém, o escopo desse projeto se limita no método de raspagem da API e obter as informações acima.
+
+Neste repositório há uma planilha excel com o resultado da raspagem. 
 
 # Bibliotecas Utilizadas
 - requests
