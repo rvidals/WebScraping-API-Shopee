@@ -41,7 +41,6 @@ Neste repositório há uma planilha excel com o resultado da raspagem.
 # Autor
 Rogerio Vidal de Siqueira
 
-<a href="https://www.linkedin.com/in/rogerio-vidal-de-siqueira-9478aa136/" target="_blank">Linkdin</a>
+<a href="https://www.linkedin.com/in/rogerio-vidal-de-siqueira-9478aa136/" target="_blank" rel="noopener noreferrer">Meu Linkdin</a>
 
-[Linkdin](https://www.linkedin.com/in/rogerio-vidal-de-siqueira-9478aa136/){:target="_blank" rel="noopener"}
 
