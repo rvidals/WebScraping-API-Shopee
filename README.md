@@ -34,7 +34,7 @@ A partir dessa extração é possível fazer diversos filtros e análises usando
 Neste repositório há um exemplo de planilha excel com o resultado da raspagem. É importante destacar que o arquivo, quando salvo, grava a data, hora e minuto da extração.
 
 # Bibliotecas Utilizadas
-- [requests[(https://requests.readthedocs.io/en/latest/)
+- [requests](https://requests.readthedocs.io/en/latest/)
 - [json](https://docs.python.org/pt-br/3/library/json.html)
 - [datetime](https://docs.python.org/3/library/datetime.html)
 - [tqdm](https://tqdm.github.io/)
