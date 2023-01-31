@@ -27,16 +27,18 @@ Trazendo para a minha realidade e interesse, adaptei o algoritmo para pesquisar 
   - Avaliação de 4 estrelas => rating_4
   - Avaliação de 5 estrelas => rating_5
 
-Onde o resultado é salvo em um arquivo Excel. É possível fazer diversos filtros e análises usando a biblioteca pandas e só salvar o resultado da análise. Por exemplo, *Top 5 de menores preços, Top 10 de mais avaliados e assim por diante*. Porém, o escopo desse projeto se limita no método de raspagem da API e obter as informações acima.
+O resultado desse algoritmo é salvo em um arquivo Excel!
 
-Neste repositório há uma planilha excel com o resultado da raspagem. 
+A partir dessa extração é possível fazer diversos filtros e análises usando, por exemplo, a biblioteca Pandas. Alguns exemplo que podem ser obtidos: *Top 5 de menores preços, Top 10 de mais avaliados, Quais os produtos que possuem os maiores descontos e assim por diante*. Porém, o escopo desse projeto se limita no método de raspagem da API e obter as informações acima.
+
+Neste repositório há um exemplo de planilha excel com o resultado da raspagem. É importante destacar que o arquivo, quando salvo, grava a data, hora e minuto da extração.
 
 # Bibliotecas Utilizadas
-- requests
-- json
-- datetime
-- tqdm
-- pandas
+- [requests[(https://requests.readthedocs.io/en/latest/)
+- [json](https://docs.python.org/pt-br/3/library/json.html)
+- [datetime](https://docs.python.org/3/library/datetime.html)
+- [tqdm](https://tqdm.github.io/)
+- [pandas](https://pandas.pydata.org/)
 
 # Autor
 Rogerio Vidal de Siqueira
